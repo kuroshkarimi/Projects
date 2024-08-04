@@ -1,0 +1,46 @@
+UserName,StartDate,Revenue
+Ms. Samantha Wright MD,20-10-21,670
+S. E. Adams,20-02-26,942
+Mrs. B. Harris PhD,22-07-14,542
+Oli Garcia,18-06-09,623
+"Prof., Biden, D",19-12-07,238
+Dr. Andrew Allen,20-05-01,745
+G. Rivera MD,22-07-17,227
+D. Murphy,22-05-20,157
+Lauren Miller,18-07-11,672
+Dr. A. Thompson,22-05-02,673
+Ms. Prof. Mia Harris,18-08-30,341
+"Mrs. Elizabeth. Harris, MSc",19-10-24,276
+Dr. Matthew Taylor,20-03-19,229
+J. Wilson,19-05-05,582
+Ms. Ashley Nelson,21-12-05,816
+Ms. E. Simpson,20-08-15,601
+Dr. C. Scott,21-07-30,782
+"Christopher Lee, BSc",20-10-17,841
+J. Miller,21-08-13,964
+Victoria Garcia,19-06-03,893
+Dr. Olivia Murphy,22-03-17,466
+R. Perez,20-10-10,785
+"P., Pegah",19-02-13,425
+A. Anderson,21-06-21,238
+Ms. J. Moore,22-02-11,159
+Ms. Lily Collins,22-03-05,689
+Prof. A Roustaee ,19-03-31,308
+N. Taylor,20-08-18,521
+Cloe. Thompson,21-02-10,753
+J. Martinez,22-03-23,485
+Ms. T. Brown MD,19-09-14,145
+Mr. John Miller,22-07-25,564
+William Clark,21-09-10,318
+David Wilson,21-11-22,125
+"Ms. Taban, S",20-11-05,894
+"Emily Moore, MSc",22-05-09,457
+Emily. Adams PhD,20-12-20,358
+"Dr. Martinez, A",19-06-25,509
+Sophi Anderson,20-09-05,782
+"Ms. Mohseni, E.",21-01-18,520
+Mr. M Swift,21-05-19,752
+Lauren. Martinez,21-12-12,335
+sophia Lee,21-04-12,791
+"Ava, Perez, PhD",21-05-19,752
+Dr. Daniel King,21-04-25,794
